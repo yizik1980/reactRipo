@@ -1,0 +1,24 @@
+export default class User{
+    isAdmin;
+    _id;
+    email;
+    password;
+    firstName;
+    lastName;
+    profileName;
+    country;
+    city;
+    street;
+    postalCode;
+    birthDate;
+    roleId;
+    token;
+    phone;
+    phoneCode;
+    settlement;
+    sectorNumber;
+    state;
+    loginDate;
+    registrationDate;
+    constructor(){}
+}
